@@ -1,2 +1,2 @@
 # Notepad
-Simple Notepad Application using Java
+Simple Notepad Application using Advanced Java.
